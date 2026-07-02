@@ -28,7 +28,6 @@ AI / ML / NLP engineer with an **M.Sc. in Applied Artificial Intelligence (Unive
 - Interests: **RAG architecture, agentic AI, applied NLP, model deployment, and Responsible AI.**
 - Domain depth in **financial services** - AML/ODD compliance, credit risk, and fraud analytics.
 - Conference speaker at **Build Stuff (2024)** on process automation and AI adoption in compliance.
-- Reach me: **omaku.petra@gmail.com**
 
 ---
 
@@ -97,7 +96,7 @@ AI / ML / NLP engineer with an **M.Sc. in Applied Artificial Intelligence (Unive
 
 ## Education & Certifications
 
-- **M.Sc. Applied Artificial Intelligence - Distinction**, University of San Diego (2026)
+- **M.Sc. Applied Artificial Intelligence**, University of San Diego (2026)
 - **AWS Certified AI Practitioner** | **DASCA Senior Big Data Analyst (SBDA)** | **Alteryx Core** | **Data Engineering (Turing College)**
 
 ---
