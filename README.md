@@ -22,7 +22,7 @@
 
 ## About Me
 
-AI / ML / NLP engineer with an **M.Sc. in Applied Artificial Intelligence (Distinction, University of San Diego)** and **6+ years** delivering data-driven solutions in financial services. I build across the full stack of modern AI - from **classical machine learning** and **NLP** to **Retrieval-Augmented Generation (RAG)** and **multi-agent LLM systems**.
+AI / ML / NLP engineer with an **M.Sc. in Applied Artificial Intelligence (University of San Diego)** and **6+ years** delivering data-driven solutions in financial services. I build across the full stack of modern AI - from **classical machine learning** and **NLP** to **Retrieval-Augmented Generation (RAG)** and **multi-agent LLM systems**.
 
 - Currently an **AI Backend Engineer** building a context-aware RAG curriculum-generation system (OpenAI + LangChain + ChromaDB) in a **Carnegie Mellon University** research collaboration.
 - Interests: **RAG architecture, agentic AI, applied NLP, model deployment, and Responsible AI.**
