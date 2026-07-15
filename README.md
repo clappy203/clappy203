@@ -27,7 +27,7 @@ AI / ML / NLP engineer with an **M.Sc. in Applied Artificial Intelligence (Unive
 - Currently an **AI Backend Engineer** building a context-aware RAG curriculum-generation system (OpenAI + LangChain + ChromaDB) in a **Carnegie Mellon University** research collaboration.
 - Interests: **RAG architecture, agentic AI, applied NLP, model deployment, and Responsible AI.**
 - Domain depth in **financial services** - AML/ODD compliance, credit risk, and fraud analytics.
-- Conference speaker at **Build Stuff (2024)** on process automation and AI adoption in compliance.
+- Conference speaker at **Build Stuff (2024)** on process automation with Power Platform Tools and it's adoption in compliance workflows.
 
 ---
 
