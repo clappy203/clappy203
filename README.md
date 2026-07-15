@@ -97,6 +97,7 @@ AI / ML / NLP engineer with an **M.Sc. in Applied Artificial Intelligence (Unive
 ## Education & Certifications
 
 - **M.Sc. Applied Artificial Intelligence**, University of San Diego (2026)
+- **M.Sc. Project Management**, Ahmadu Bello University, Zaria (2019)
 - **AWS Certified AI Practitioner** | **DASCA Senior Big Data Analyst (SBDA)** | **Alteryx Core** | **Data Engineering (Turing College)**
 
 ---
